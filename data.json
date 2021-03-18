@@ -1,0 +1,33 @@
+{ 
+ "data" : [
+     {
+        "question" : "2019년에 가장 많이 쓰인 프로그래밍 언어는?",
+        "answer1" : "Java",
+        "answer2": "C",
+        "answer3": "Python",
+        "answer4": "JavaScript"       
+            },
+    {
+        "question" : "2021년 현재, 대한민국 대통령은 누구인가?",
+        "answer1" : "박근혜",
+        "answer2": "문재인",
+        "answer3": "이명박",
+        "answer4": "김정은"       
+            },
+    {
+        "question" : "영화 '블러드다이아몬드'의 배경은 어디인가?",
+        "answer1" : "라이베리아",
+        "answer2": "에티오피아",
+        "answer3": "시에라리온",
+        "answer4": "모리셔스"       
+            },
+    {
+        "question" : "영화 '인셉션'의 감독은 누구인가?",
+        "answer1" : "스티븐 스필버그",
+        "answer2": "리들리 스콧",
+        "answer3": "알프레드 히치콕",
+        "answer4": "크리스토퍼 놀란"       
+                    }
+
+]
+}
